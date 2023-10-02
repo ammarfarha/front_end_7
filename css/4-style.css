@@ -1,0 +1,32 @@
+/* h1{
+    font-size: xx-small !important;
+    color: red;
+}
+div{
+    background-color: blue;
+} */
+/* ammar{
+    background-color: aqua;
+    color: blue;
+    display: block;
+} */
+#i1{
+    background-color: red;
+    color: white;
+    font-size: medium;
+    
+}
+.test{
+    background-color: bisque;
+    border: 3px solid blue;
+    border-radius: 15px;
+}
+.div{
+    background-color: yellow;
+    color: brown;
+}
+div{
+    background-color: aquamarine;
+    color: cadetblue;
+    font-size: xx-large;
+}
