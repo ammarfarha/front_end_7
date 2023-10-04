@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css?family=Audiowide|Sofia|Trirong");
+
+div{
+    /* border-top-width: 5px;
+    border-top-color: black;
+    border-top-style: double; */
+    /* border-bottom-width: 3px;
+    border-bottom-color: brown;
+    border-bottom-style: solid; */
+    /* border-bottom: 3px solid red;
+    border-top: 5px dashed brown; */
+    border: 1px solid red;
+    /* border-bottom-color: red; */
+    width: 400px;
+    height: 400px;
+    /* border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px; */
+    background-color: aquamarine;
+    /* padding: 10px 0 ; */
+    /* margin: 10px 20px 30px; */
+}
+h1{
+    border: 1px solid red;
+}
+a{
+    background-color: blue;
+}
+#i1{
+    background-image: url("/images/flowers/03.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-size: cover; */
+    background-attachment: fixed;
+    /* outline: 100px solid blue; */
+    
+}
+.c1{
+    /* Text: */
+    color: blue;
+    text-align: center;
+    text-decoration: underline double;
+
+    /* Font: */
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Trirong", sans-serif;
+}
+#div1{
+    background-color: blue;
+    width: 50%;
+    min-width: 500px;
+}
+#div2{
+    background-color: brown;
+    width: 50%;
+    max-width: 600px;
+}
