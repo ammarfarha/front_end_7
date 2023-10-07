@@ -50,9 +50,18 @@ a{
     background-color: blue;
     width: 50%;
     min-width: 500px;
+    display: none;
 }
 #div2{
     background-color: brown;
     width: 50%;
-    max-width: 600px;
+    min-width: 300px;
+}
+@media screen and (min-width: 900px){
+    #div2{
+        display: none;
+    }
+    #div1{
+        display: block;
+    }
 }
