@@ -1,0 +1,59 @@
+/* h1, #i1{
+    background-color: aqua;
+}
+h2.cl1{
+    color: red;
+} */
+/* #i1 > h1{
+    color: red;
+}
+#i1 ~ h1{
+    color: blue;
+} */
+/* .cl1:hover{
+    color: red;
+    cursor: pointer;
+}
+#t1:focus{
+    background-color: aqua;
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color: red;
+}
+#item + .menu{
+    display: none;
+}
+
+#item:hover + .menu{
+    display: inline-block;
+} */
+
+/* #di1{
+    border: 1px solid black;
+}
+#di1::after{
+    content: url("/images/Logo/ss.png");
+}
+#di1::before{
+    content: "**** ";
+}
+#di1::first-line{
+    font-size: xx-large;
+    color: red;
+}
+#di1::selection{
+    color: chartreuse;
+    background-color: yellow;
+} */
+[type^="te"]{
+    background-color: aqua;
+}
+[title^="hel"]{
+    background-color: bisque;
+}
+[lang|="en"]{
+    color: red;
+}
