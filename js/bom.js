@@ -1,9 +1,6 @@
 // window:
 // let w = window.innerWidth;
 // let h = window.innerHeight;
-// document.getElementById("bom").innerHTML = "width: " + w + "<br>";
-// document.getElementById("bom").innerHTML += "height: " + h+ "<br>";
-// document.getElementById("bom").innerHTML += navigator.userAgent+ "<br>";
 // window.alert("Hello");
 // window.confirm("Are You Shure?");
 // console.log(window);
