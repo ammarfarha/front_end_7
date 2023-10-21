@@ -20,9 +20,14 @@
         "postId": 1
       },
       {
+        "id": 3,
+        "body": "its a good one",
+        "postId": 1
+      },
+      {
         "id": 2,
         "body": "some comment",
-        "postId": 1
+        "postId": 2
       }
     ],
     "profile": {
